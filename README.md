@@ -33,3 +33,9 @@ npm run dev
 5. use arrow function to define component -
    1. FC type is generic ,
    2. type FC T is used for props type
+
+use state
+
+1. add button with event to add goal ,
+2. add useState for goals
+3. add goals in unordered list
